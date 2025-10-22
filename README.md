@@ -1,5 +1,5 @@
 # NYC School Capacity Dashboard
-A Streamlit app visualizing New York City public school building utilization and overcrowding trends.
+A Streamlit app visualizing New York City public school building utilization and overcrowding trends. [Live app ->](https://nycschoolcapacitydashboard.streamlit.app/)
 
 ## Background
 Building utilization is defnied as the ratio of a school building's enrollment to its designated capacity - for example, a utilization rate of 120% would mean that a building enrolls 20% more students than its intended capacity. While this data is publicly available through NYC Open Data, it can be difficult for stakeholders (students, families, educators, and policymakers) to interpret. This dashboard aims to make this information accessible and visually intuitive.
@@ -34,8 +34,6 @@ streamlit run app.py
 
 ## Data Source
 Data is sourced from NYC Open Data's [Enrollment Capacity and Building Utilization Reports](https://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports/gkd7-3vk7/about_data) dataset.
-
-## Live Demo
 
 ## Contact
 For questions, feedback, or suggestions, please open an issue on this repository.
